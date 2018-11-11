@@ -12,17 +12,22 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 
 ## 笔记目录
 
+* [LaTex学习笔记](README.md)
+* [环境安装之Windows](docs/环境安装之Windows.md)
+* [环境安装之Linux](docs/环境安装之Linux.md)
 * [文档类别](docs/文档类别.md)
 * [标题摘要](docs/标题摘要.md)
 * [章节目录](docs/章节目录.md)
 * [正文](docs/正文.md)
-  - [插入图片](docs/正文/插入图片.md)
-  - [插入表格](docs/正文/插入表格.md)
-  - [字体格式](docs/正文/字体格式.md)
+    * [插入图片](docs/正文/插入图片.md)
+    * [插入表格](docs/正文/插入表格.md)
+    * [字体格式](docs/正文/字体格式.md)
 * [全文索引](docs/全文索引.md)
 
+
 ```
-按照论文撰写的结构格式，从头到尾，依次记录基本套路已经锁遇到的问题。
+按照论文撰写的结构格式，从头到尾，依次记录基本套路已经所遇到的问题。
+内容基本参考消化总结做笔记，原创癖大佬别打我，谢谢~只是为了学习，一天不学习，浑身都蓝瘦~
 ```
 
 ---
