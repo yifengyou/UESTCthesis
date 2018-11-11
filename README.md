@@ -1,3 +1,32 @@
+## 电子科技大学毕业设计论文LaTeX模板&LaTex学习笔记~
+
+## 本仓库内容
+
+* LaTex学习笔记(在原本仓库的技术上创建学习笔记，感谢先前大佬无私奉献~)
+
+```
+Something I hope you know before go into the coding~
+First, please watch or star this repo, I'll be more happy if you follow me.
+Bug report, questions and discussion are welcome, you can post an issue or pull a request.
+```
+
+## 笔记目录
+
+* [文档类别](docs/文档类别.md)
+* [标题摘要](docs/标题摘要.md)
+* [章节目录](docs/章节目录.md)
+* [正文](docs/正文.md)
+  - [插入图片](docs/正文/插入图片.md)
+  - [插入表格](docs/正文/插入表格.md)
+  - [字体格式](docs/正文/字体格式.md)
+* [全文索引](docs/全文索引.md)
+
+```
+按照论文撰写的结构格式，从头到尾，依次记录基本套路已经锁遇到的问题。
+```
+
+---
+
 # 最新版本：v1.2.7 #
 升级前请阅读下方的更新日志。
 
